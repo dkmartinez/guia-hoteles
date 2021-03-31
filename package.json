@@ -1,0 +1,16 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "practica bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dianaMtz@bitbucket.org/dianaMtz/guia-hoteles.git"
+  },
+  "author": "Diana Campos",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/dianaMtz/guia-hoteles#readme"
+}
